@@ -1,3 +1,3 @@
 # playing-colors
 Playing Colors Js
-https://rafiramdani1.github.io/playing-colors/
+https://rafiramdani321.github.io/playing-colors/
